@@ -2,7 +2,7 @@
 #### Cursando desenvolvimento de sistemas no [Senai](https://www.senaibahia.com.br/unidade/senaidendezeiros/)
 [![Social](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-aragão2023)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aragaoronald&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AragaoRonald&show_icons=true&theme=radicalbg_color=000)
 
 ## Tecnologias já utilizadas
 
